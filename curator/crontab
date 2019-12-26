@@ -1,0 +1,5 @@
+#* 2 * * * /usr/bin/curator /root/.curator/curator_action.yml
+* * * * * /usr/bin/curator /home/saif.rehman/.curator/curator_action.yml
+# An empty line is required at the end of this file for a valid cron file.
+# The owner must be root and permisions set to 0644 !!!
+
